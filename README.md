@@ -12,4 +12,8 @@ GS>srl295
 Error: /undefined in srl295
 **srl295
 ! I can't find file `srl295'.
+>>> srl295
+NameError: name 'srl295' is not defined
+PS H:\> srl295
+posh: srl295: not found
 ```
